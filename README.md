@@ -1,6 +1,6 @@
 # Portfolio
 
-# Ishan bakshi
+## Ishan Bakshi
 *An Aspiring Data Scientist*
 
 # Education
