@@ -1,7 +1,7 @@
 # Portfolio
 
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Ishan bakshi
+*An Aspiring Data Scientist*
 
 # Education
 * PGP - AIML, *Great Learning*, 2020-2021
