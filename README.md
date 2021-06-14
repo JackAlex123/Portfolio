@@ -10,4 +10,5 @@
 * Bachelors of Technology (Computer Science), *B.P.U.T*, 2010-2014
 
 # Projects 
+---
 ## Projects I completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning
