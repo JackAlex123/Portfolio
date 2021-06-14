@@ -11,4 +11,4 @@
 
 # Projects 
 ---
-## Projects I completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning
+#### 1. [Projects I completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning](https://github.com/ishanbakshi91/GreatLearning-PGP-AIML)
