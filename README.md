@@ -6,8 +6,8 @@
 
 ## Education
 ---
-* PGP - AIML, *TEXAS McCombs - The University of Texas at Austin* & *Great Lakes Institute of Management* 2021-2022
-* Bachelors of Technology (Computer Science & Engineering), *B.P.U.T*, 2010-2014
+* PGP - AIML, *TEXAS McCombs - The University of Texas at Austin* & *Great Lakes Institute of Management*, 2021 - 2022
+* Bachelors of Technology (Computer Science & Engineering), *B.P.U.T*, 2010 - 2014
 
 ## Projects 
 ---
