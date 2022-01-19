@@ -13,4 +13,4 @@
 ---
 #### 1. [Projects I have completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning](https://github.com/ishanbakshi91/GreatLearning-PGP-AIML)
 
-#### 2. [Kaggle's 30 Days of ML](https://github.com/ishanbakshi91/Kaggle-30-Days-of-ML)
+#### 2. [Kaggle's 30 Days of ML](https://github.com/ishan-bakshi/Kaggle-30-Days-of-Machine-Learning)
