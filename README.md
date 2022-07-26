@@ -4,6 +4,8 @@
 # Ishan Bakshi
 *An Aspiring Data Scientist*
 
+I am AI/ML enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and DevOps to achieve a level of Full-Stack Data Science.
+
 ## Education
 ---
 * PGP - AIML, *TEXAS McCombs - The University of Texas at Austin* & *Great Lakes Institute of Management*, 2021 - 2022
